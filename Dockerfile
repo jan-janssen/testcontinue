@@ -1,4 +1,4 @@
-FROM pyiron/continuum:2022-03-23
+FROM pyiron/continuum:2023-02-04
 COPY . ${HOME}/
 
 USER root
